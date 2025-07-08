@@ -1,0 +1,23 @@
+s="hello world "
+b="python is awesome"
+c=["python","is","awesome"]
+print(" ".join(c))
+print(s+b)
+print(s.lower())
+print(s.upper())
+print(s.capitalize())
+print(s.title())
+print(s.strip())
+print(s.rstrip())
+print(s.replace("o","e"))
+print(s.find("e"))
+print(s.count("o"))
+print(s.startswith("he"))
+print(s.endswith("ld"))
+print(s.split())
+print(" ".join(["hello","world"]))
+print(s.isdigit())
+print(s.isalpha())
+print(s.isalnum())
+print(s.swapcase())
+print("42".zfill(4))

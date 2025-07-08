@@ -1,0 +1,8 @@
+t=(3,7,9,7,8)
+print("count of 7:",t.count(7))
+print(t.index(3))
+print(t[1:3])
+print(len(t))
+print(t+(8,9))
+print(3 in t)
+print(4 not in t)
