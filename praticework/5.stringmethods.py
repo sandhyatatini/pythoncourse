@@ -1,6 +1,8 @@
 s="hello world "
 b="python is awesome"
 c=["python","is","awesome"]
+print(s[1:3])
+print(s[-3:-1])
 print(" ".join(c))
 print(s+b)
 print(s.lower())
