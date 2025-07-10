@@ -1,5 +1,9 @@
 # Input from user
+<<<<<<< HEAD
 user_input = input("Enter fruits separated by commas (e.g., apple,banana,cherry): ")
+=======
+user_input = input("Enter fruits (e.g., apple,banana,cherry): ")
+>>>>>>> 7dfa8dff962f1b47771420944ad30f8c0ad3b216
 fruits = user_input.split(",")  # Convert to list
 
 print("Original list:", fruits)
@@ -38,4 +42,8 @@ print("Banana count:", count_banana)
 
 # Clear the list
 fruits.clear()
+<<<<<<< HEAD
 print("After clear:", fruits)
+=======
+print("After clear:", fruits)
+>>>>>>> 7dfa8dff962f1b47771420944ad30f8c0ad3b216
