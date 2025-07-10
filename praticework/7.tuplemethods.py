@@ -20,8 +20,5 @@ print("Concatenated tuple:", t + (8, 9))
 
 # Membership check
 print("Is 3 in tuple?:", 3 in t)
-<<<<<<< HEAD
 print("Is 4 not in tuple?:", 4 not in t)
-=======
 print("Is 4 not in tuple?:", 4 not in t)
->>>>>>> 7dfa8dff962f1b47771420944ad30f8c0ad3b216

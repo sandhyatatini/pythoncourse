@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 my_dict = {"name": "sandhya", "branch": "ece", "cource": "python"}
 
 # Shallow copy
@@ -27,7 +26,7 @@ print("After update:", my_dict)
 # Set default (won't overwrite existing 'b')
 my_dict.setdefault("b", 9)
 print("After setdefault:", my_dict)
-=======
+
 my_dict = {"name": "sandhya", "branch": "ece", "cource": "python"}
 
 # Shallow copy
@@ -56,4 +55,3 @@ print("After update:", my_dict)
 # Set default (won't overwrite existing 'b')
 my_dict.setdefault("b", 9)
 print("After setdefault:", my_dict)
->>>>>>> 7dfa8dff962f1b47771420944ad30f8c0ad3b216

@@ -25,8 +25,5 @@ print("Split string:", s.split())
 print("Join example:", " ".join(["hello", "world"]))
 print("Is digit:", s.isdigit())
 print("Is alpha:", s.isalpha())
-<<<<<<< HEAD
 print("Is alphanumeric:", s.isalnum())
-=======
 print("Is alphanumeric:", s.isalnum())
->>>>>>> 7dfa8dff962f1b47771420944ad30f8c0ad3b216
