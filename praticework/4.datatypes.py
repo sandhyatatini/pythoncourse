@@ -2,8 +2,6 @@ items = int(input("Enter number of items: "))
 user_id = int(input("Enter user ID: "))
 price = float(input("Enter the price: "))
 discount = float(input("Enter the discount (%): "))
-
-# Complex number input (split into real and imaginary parts)
 complex_num = complex(input("enter the complex nuumber: "))
 
 # List input
@@ -30,8 +28,6 @@ b = True
 
 # NoneType
 c = None
-
-# Printing everything
 print(items)
 print(user_id)
 print(price)
