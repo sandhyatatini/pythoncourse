@@ -1,0 +1,25 @@
+from datetime import date,datetime
+today=date.today()
+print(today)
+print(today.year)
+print(today.month)
+print(today.weekday())
+print(today.isoweekday())
+
+
+now=datetime.now()
+print(now)
+print(now.year)
+print(now.month)
+print(now.day)
+print(now.minute)
+print(now.hour)
+print(now.second)
+
+print(now.strftime("%y-%m-%d"))
+print(now.strftime("%y/%m/%d"))
+print(now.strftime("%y %b %d"))
+print(now.strftime("%B %d %y"))
+print(now.strftime("%H %m %p"))
+print(now.strftime("%a %b %y"))
+print(now.strftime("%A %B %y"))
